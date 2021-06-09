@@ -1,4 +1,4 @@
-####Guessing Game project
+echo"####Guessing Game project"
 
 ##created on date6-9-2021
 
